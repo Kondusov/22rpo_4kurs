@@ -1,0 +1,52 @@
+<<<<<<< HEAD
+
+.profile-screen{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    
+}
+
+.profile-info-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+
+    width: 100%;
+    max-width: 200px;
+}
+
+
+.avatar{
+    width: 200px;
+    aspect-ratio: 1/1;
+
+=======
+
+.profile-screen{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    
+}
+
+.profile-info-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+
+    width: 100%;
+    max-width: 200px;
+}
+
+
+.avatar{
+    width: 200px;
+    aspect-ratio: 1/1;
+
+>>>>>>> b3fc30e802dcf48c769d89678835737baa17457e
+}
