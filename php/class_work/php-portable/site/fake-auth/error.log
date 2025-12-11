@@ -1,0 +1,90 @@
+[Thu Dec 11 10:43:00.471585 2025] [mpm_winnt:notice] [pid 2368:tid 404] AH00455: Apache/2.4.65 (Win64) PHP/8.4.14 configured -- resuming normal operations
+[Thu Dec 11 10:43:00.471585 2025] [mpm_winnt:notice] [pid 2368:tid 404] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Thu Dec 11 10:43:00.471585 2025] [core:notice] [pid 2368:tid 404] AH00094: Command line: 'D:\\SOFT\\LEARN\\PHP\\Apache\\Apache24\\bin\\httpd.exe -d D:/SOFT/LEARN/PHP/Apache/Apache24'
+[Thu Dec 11 10:43:00.492583 2025] [mpm_winnt:notice] [pid 2368:tid 404] AH00418: Parent: Created child process 17832
+[Thu Dec 11 10:43:00.981326 2025] [mpm_winnt:notice] [pid 17832:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 11 10:52:04.231868 2025] [mpm_winnt:notice] [pid 2368:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu Dec 11 10:52:04.251132 2025] [mpm_winnt:notice] [pid 2368:tid 404] AH00455: Apache/2.4.65 (Win64) PHP/8.4.14 configured -- resuming normal operations
+[Thu Dec 11 10:52:04.251132 2025] [mpm_winnt:notice] [pid 2368:tid 404] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Thu Dec 11 10:52:04.251132 2025] [core:notice] [pid 2368:tid 404] AH00094: Command line: 'D:\\SOFT\\LEARN\\PHP\\Apache\\Apache24\\bin\\httpd.exe -d D:/SOFT/LEARN/PHP/Apache/Apache24'
+[Thu Dec 11 10:52:04.252133 2025] [mpm_winnt:notice] [pid 2368:tid 404] AH00418: Parent: Created child process 18148
+[Thu Dec 11 10:52:05.234839 2025] [mpm_winnt:notice] [pid 18148:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 11 10:52:06.235655 2025] [mpm_winnt:notice] [pid 17832:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Dec 11 10:52:12.796527 2025] [mpm_winnt:notice] [pid 2368:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 11 10:52:14.797971 2025] [mpm_winnt:notice] [pid 18148:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Dec 11 10:52:14.811868 2025] [mpm_winnt:notice] [pid 2368:tid 404] AH00430: Parent: Child process 18148 exited successfully.
+[Thu Dec 11 10:52:27.635433 2025] [mpm_winnt:notice] [pid 14248:tid 444] AH00455: Apache/2.4.65 (Win64) PHP/8.4.14 configured -- resuming normal operations
+[Thu Dec 11 10:52:27.635433 2025] [mpm_winnt:notice] [pid 14248:tid 444] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Thu Dec 11 10:52:27.635433 2025] [core:notice] [pid 14248:tid 444] AH00094: Command line: 'D:\\SOFT\\LEARN\\PHP\\Apache\\Apache24\\bin\\httpd.exe -d D:/SOFT/LEARN/PHP/Apache/Apache24'
+[Thu Dec 11 10:52:27.636433 2025] [mpm_winnt:notice] [pid 14248:tid 444] AH00418: Parent: Created child process 10744
+[Thu Dec 11 10:52:27.814126 2025] [mpm_winnt:notice] [pid 10744:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 11 10:54:34.232453 2025] [mpm_winnt:notice] [pid 14248:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 11 10:54:36.232784 2025] [mpm_winnt:notice] [pid 10744:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Dec 11 10:54:36.247234 2025] [mpm_winnt:notice] [pid 14248:tid 444] AH00430: Parent: Child process 10744 exited successfully.
+[Thu Dec 11 10:56:21.450507 2025] [mpm_winnt:notice] [pid 14180:tid 428] AH00455: Apache/2.4.65 (Win64) PHP/8.4.14 configured -- resuming normal operations
+[Thu Dec 11 10:56:21.450507 2025] [mpm_winnt:notice] [pid 14180:tid 428] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Thu Dec 11 10:56:21.450507 2025] [core:notice] [pid 14180:tid 428] AH00094: Command line: 'D:\\SOFT\\LEARN\\PHP\\Apache\\Apache24\\bin\\httpd.exe -d D:/SOFT/LEARN/PHP/Apache/Apache24'
+[Thu Dec 11 10:56:21.452400 2025] [mpm_winnt:notice] [pid 14180:tid 428] AH00418: Parent: Created child process 17516
+[Thu Dec 11 10:56:21.626140 2025] [mpm_winnt:notice] [pid 17516:tid 424] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 11 11:00:22.558932 2025] [mpm_winnt:notice] [pid 14180:tid 428] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 11 11:00:24.560643 2025] [mpm_winnt:notice] [pid 17516:tid 424] AH00364: Child: All worker threads have exited.
+[Thu Dec 11 11:00:24.574647 2025] [mpm_winnt:notice] [pid 14180:tid 428] AH00430: Parent: Child process 17516 exited successfully.
+[Thu Dec 11 11:07:14.911861 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00455: Apache/2.4.65 (Win64) PHP/8.4.14 configured -- resuming normal operations
+[Thu Dec 11 11:07:14.911861 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Thu Dec 11 11:07:14.911861 2025] [core:notice] [pid 16320:tid 404] AH00094: Command line: 'D:\\SOFT\\LEARN\\PHP\\Apache\\Apache24\\bin\\httpd.exe -d D:/SOFT/LEARN/PHP/Apache/Apache24'
+[Thu Dec 11 11:07:14.913860 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00418: Parent: Created child process 11904
+[Thu Dec 11 11:07:15.087852 2025] [mpm_winnt:notice] [pid 11904:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 11 11:09:42.146825 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu Dec 11 11:09:42.167777 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00455: Apache/2.4.65 (Win64) PHP/8.4.14 configured -- resuming normal operations
+[Thu Dec 11 11:09:42.167777 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Thu Dec 11 11:09:42.167777 2025] [core:notice] [pid 16320:tid 404] AH00094: Command line: 'D:\\SOFT\\LEARN\\PHP\\Apache\\Apache24\\bin\\httpd.exe -d D:/SOFT/LEARN/PHP/Apache/Apache24'
+[Thu Dec 11 11:09:42.169777 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00418: Parent: Created child process 13708
+[Thu Dec 11 11:09:43.147682 2025] [mpm_winnt:notice] [pid 13708:tid 440] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 11 11:09:44.148588 2025] [mpm_winnt:notice] [pid 11904:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Dec 11 11:10:38.896311 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu Dec 11 11:10:38.916233 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00455: Apache/2.4.65 (Win64) PHP/8.4.14 configured -- resuming normal operations
+[Thu Dec 11 11:10:38.916233 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Thu Dec 11 11:10:38.916233 2025] [core:notice] [pid 16320:tid 404] AH00094: Command line: 'D:\\SOFT\\LEARN\\PHP\\Apache\\Apache24\\bin\\httpd.exe -d D:/SOFT/LEARN/PHP/Apache/Apache24'
+[Thu Dec 11 11:10:38.917230 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00418: Parent: Created child process 2152
+[Thu Dec 11 11:10:39.897150 2025] [mpm_winnt:notice] [pid 2152:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 11 11:10:42.506692 2025] [mpm_winnt:notice] [pid 13708:tid 440] AH00364: Child: All worker threads have exited.
+[Thu Dec 11 11:20:58.910804 2025] [php:warn] [pid 2152:tid 1128] [client ::1:61800] PHP Warning:  Undefined global variable $_SESSION in D:\\SOFT\\LEARN\\PHP\\localhost\\index.php on line 2
+[Thu Dec 11 11:20:58.912805 2025] [php:warn] [pid 2152:tid 1128] [client ::1:61800] PHP Warning:  Trying to access array offset on null in D:\\SOFT\\LEARN\\PHP\\localhost\\index.php on line 2
+[Thu Dec 11 11:21:22.244936 2025] [php:warn] [pid 2152:tid 1168] [client ::1:61801] PHP Warning:  Undefined global variable $_SESSION in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 2, referer: http://localhost/auth.html
+[Thu Dec 11 11:21:22.244936 2025] [php:warn] [pid 2152:tid 1168] [client ::1:61801] PHP Warning:  Trying to access array offset on null in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 2, referer: http://localhost/auth.html
+[Thu Dec 11 11:22:26.074055 2025] [php:warn] [pid 2152:tid 1128] [client ::1:61920] PHP Warning:  Undefined array key "isAuth" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 3, referer: http://localhost/auth.html
+[Thu Dec 11 11:22:29.026045 2025] [php:warn] [pid 2152:tid 1128] [client ::1:61920] PHP Warning:  Undefined array key "isAuth" in D:\\SOFT\\LEARN\\PHP\\localhost\\index.php on line 3
+[Thu Dec 11 11:22:40.123209 2025] [php:warn] [pid 2152:tid 1168] [client ::1:61921] PHP Warning:  Undefined array key "login" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 4, referer: http://localhost/auth.html
+[Thu Dec 11 11:23:32.655534 2025] [php:warn] [pid 2152:tid 1128] [client ::1:61923] PHP Warning:  Undefined array key "login" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 4
+[Thu Dec 11 11:23:36.845209 2025] [php:warn] [pid 2152:tid 1128] [client ::1:61923] PHP Warning:  Undefined array key "login" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 4
+[Thu Dec 11 11:23:56.553545 2025] [php:warn] [pid 2152:tid 1168] [client ::1:61939] PHP Warning:  Undefined array key "login" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 4
+[Thu Dec 11 11:24:08.811667 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu Dec 11 11:24:08.836612 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00455: Apache/2.4.65 (Win64) PHP/8.4.14 configured -- resuming normal operations
+[Thu Dec 11 11:24:08.836612 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Thu Dec 11 11:24:08.836612 2025] [core:notice] [pid 16320:tid 404] AH00094: Command line: 'D:\\SOFT\\LEARN\\PHP\\Apache\\Apache24\\bin\\httpd.exe -d D:/SOFT/LEARN/PHP/Apache/Apache24'
+[Thu Dec 11 11:24:08.837612 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00418: Parent: Created child process 20944
+[Thu Dec 11 11:24:09.813137 2025] [mpm_winnt:notice] [pid 20944:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 11 11:24:17.512942 2025] [php:warn] [pid 20944:tid 1144] [client ::1:61962] PHP Warning:  Undefined array key "login" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 4
+[Thu Dec 11 11:24:17.545159 2025] [mpm_winnt:notice] [pid 2152:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Dec 11 11:26:03.958003 2025] [php:warn] [pid 20944:tid 1164] [client ::1:61988] PHP Warning:  Undefined array key "login" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 4
+[Thu Dec 11 11:26:54.386643 2025] [php:warn] [pid 20944:tid 1144] [client ::1:62000] PHP Warning:  Undefined array key "login" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 4
+[Thu Dec 11 11:26:59.883405 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu Dec 11 11:26:59.901511 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00455: Apache/2.4.65 (Win64) PHP/8.4.14 configured -- resuming normal operations
+[Thu Dec 11 11:26:59.901511 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Thu Dec 11 11:26:59.901511 2025] [core:notice] [pid 16320:tid 404] AH00094: Command line: 'D:\\SOFT\\LEARN\\PHP\\Apache\\Apache24\\bin\\httpd.exe -d D:/SOFT/LEARN/PHP/Apache/Apache24'
+[Thu Dec 11 11:26:59.902511 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00418: Parent: Created child process 15560
+[Thu Dec 11 11:27:00.883894 2025] [mpm_winnt:notice] [pid 15560:tid 460] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 11 11:27:05.487989 2025] [php:warn] [pid 15560:tid 1144] [client ::1:62047] PHP Warning:  Undefined array key "login" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 4
+[Thu Dec 11 11:27:05.497983 2025] [mpm_winnt:notice] [pid 20944:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Dec 11 11:34:43.843158 2025] [php:warn] [pid 15560:tid 1144] [client ::1:62184] PHP Warning:  Undefined array key "logout" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 6
+[Thu Dec 11 11:34:53.097750 2025] [php:warn] [pid 15560:tid 1168] [client ::1:62185] PHP Warning:  Undefined array key "logout" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 6, referer: http://localhost/profile.php
+[Thu Dec 11 11:34:57.425026 2025] [php:warn] [pid 15560:tid 1168] [client ::1:62185] PHP Warning:  Undefined array key "logout" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 6, referer: http://localhost/profile.php
+[Thu Dec 11 11:34:58.245539 2025] [php:warn] [pid 15560:tid 1168] [client ::1:62185] PHP Warning:  Undefined array key "logout" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 6, referer: http://localhost/profile.php
+[Thu Dec 11 11:34:59.276128 2025] [php:warn] [pid 15560:tid 1168] [client ::1:62185] PHP Warning:  Undefined array key "logout" in D:\\SOFT\\LEARN\\PHP\\localhost\\profile.php on line 6, referer: http://localhost/profile.php
+[Thu Dec 11 11:38:54.181051 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu Dec 11 11:38:54.200523 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00455: Apache/2.4.65 (Win64) PHP/8.4.14 configured -- resuming normal operations
+[Thu Dec 11 11:38:54.200523 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Thu Dec 11 11:38:54.200523 2025] [core:notice] [pid 16320:tid 404] AH00094: Command line: 'D:\\SOFT\\LEARN\\PHP\\Apache\\Apache24\\bin\\httpd.exe -d D:/SOFT/LEARN/PHP/Apache/Apache24'
+[Thu Dec 11 11:38:54.201523 2025] [mpm_winnt:notice] [pid 16320:tid 404] AH00418: Parent: Created child process 7544
+[Thu Dec 11 11:38:55.182513 2025] [mpm_winnt:notice] [pid 7544:tid 432] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 11 11:38:56.987979 2025] [mpm_winnt:notice] [pid 15560:tid 460] AH00364: Child: All worker threads have exited.

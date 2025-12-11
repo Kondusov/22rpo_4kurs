@@ -5,9 +5,8 @@
         $age_user = $_REQUEST['age_user'];
 
         if(strlen($name_user ) < 4){
-            echo "<h2>Ваше имя: $name_user - слишком короткое</h2><br>
-            <a href="
-            echo $_SERVER['HTTP_REFERER']";
+            echo "<h2>Ваше имя: $name_user - слишком короткое</h2><br>";
+            echo "<a href="; echo ($_SERVER['HTTP_REFERER']);
             echo "'>Вернуться к форме</a>"; 
         }else{
         echo "
