@@ -1,0 +1,42 @@
+
+ Установка и настройка
+ Создайте базу данных с помощью SQL скрипта (его можно найти в migration)
+
+Настройте доступ к БД в config/database.php
+
+Разместите файлы на веб-сервере с поддержкой PHP и MySQL
+
+Включите mod_rewrite в Apache или настройте Nginx
+
+-------------------------------------
+Примеры использования API
+Получить все страны:
+GET /api/countries
+
+Создать новую страну:
+POST /api/countries
+Content-Type: application/json
+
+{
+    "name": "Греция",
+    "code": "GR",
+    "visa_required": true
+}
+
+
+Получить доступные туры:
+GET /api/tours/available
+
+Создать бронирование:
+POST /api/bookings
+Content-Type: application/json
+
+{
+    "client_id": 1,
+    "tour_id": 1,
+    "booking_date": "2024-05-20",
+    "total_price": 85000.00,
+    "notes": "Предоплата 50%"
+}
+
+
