@@ -20,6 +20,8 @@ class Client {
         $stmt = $this->conn->prepare($query);
         $stmt->execute();
         return $stmt;
+        var_dump($stmt);
+        die();
     }
 
     public function create() {
